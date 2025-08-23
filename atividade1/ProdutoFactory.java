@@ -1,3 +1,5 @@
+package atividade1;
+
 public abstract class ProdutoFactory {
     public abstract Produto criarProduto();
 }

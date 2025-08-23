@@ -1,3 +1,5 @@
+package atividade1;
+
 public abstract class Produto implements Cloneable {
     protected String nome;
     protected double preco;

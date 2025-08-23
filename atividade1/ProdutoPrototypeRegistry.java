@@ -1,3 +1,5 @@
+package atividade1;
+
 public class ProdutoPrototypeRegistry {
     private static final Camisa prototipoCamisa = new Camisa();
     private static final Tenis prototipoTenis = new Tenis();
