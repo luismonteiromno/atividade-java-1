@@ -1,4 +1,4 @@
-package aula4;
+package atividade_2_seminario;
 
 // ================== DECORATOR ==================
 // O padrão Decorator permite adicionar funcionalidades extras a um objeto

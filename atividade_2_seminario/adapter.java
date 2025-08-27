@@ -1,4 +1,4 @@
-package aula4;
+package atividade_2_seminario;
 
 import java.util.Scanner;
 

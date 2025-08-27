@@ -1,4 +1,4 @@
-package aula4;
+package atividade_2_seminario;
 
 // ================== INTERFACE BASE DE COMANDO (Abstração - Bridge) ==================
 // A interface Command define a operação que todos os comandos devem implementar.

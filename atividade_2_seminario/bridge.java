@@ -1,4 +1,4 @@
-package aula4;
+package atividade_2_seminario;
 
 // ================== COMANDO CONCRETO (Bridge) ==================
 // Classe que representa um "comando concreto" dentro do padrão **Command**.
